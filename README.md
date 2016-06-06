@@ -1,3 +1,5 @@
 # Project-1-
 Step Counter Android
-This step counter is used on the android to see how many steps you take while the phone app is activated.
+This mobile application is used on the android phone
+While app is open on your phone it counts your steps
+Basic Application
