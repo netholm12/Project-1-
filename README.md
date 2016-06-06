@@ -1,5 +1,5 @@
 # Project-1-
-Step Counter Android
-This mobile application is used on the android phone <br />
-While app is open on your phone it counts your steps <br/>
+Data smoothing
+This first project from 390MB, shows how to smooth incoming data on a phone <br />
+<br/>
 Basic Application
